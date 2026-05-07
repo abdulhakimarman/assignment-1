@@ -15,9 +15,11 @@ To execute the solutions on your local machine, follow these steps:
 
 1. Ensure you have **Node.js** and **TypeScript** installed.
 2. Install necessary dependencies:
-   ```bash
+
+```bash
    npm install
-   ```
+```
+
 3. Run the solutions file directly using `ts-node`:
 
 ```bash
